@@ -1,0 +1,225 @@
+---
+title: "GCRF QR-Sustainable Partnership Awards (Round 1)"
+author: "abdoumaliqsimone@gmail.com"
+date: "February 7, 2019"
+output:
+ pdf_document: default
+ html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Principal Investigator
+
+Prof. AbdouMaliq Simone
+
+## Principal Investigator Department
+
+Urban Institute
+
+## Contract Status
+
+Fixed, March 2021
+
+## Co-Investigators:
+Dr. Danielle Densley Tingley, Department of Civil and Structural Engineering
+Dr. Jonathan Silver, Department of Urban Studies and Planning
+
+## Project Title:
+
+Popular Economies: experiments, learning and new modes of anti-poverty intervention in rapidly changing urban environments (PopEcon)
+
+## Anticipated Start Date:
+
+February 1, 2019
+
+## Anticipated End Date:
+
+July 31, 2019
+
+## Project Summary:
+
+Building capacity in existing research partnerships, PopEcon will develop innovative methodological approaches able to interconnect four domains that impact upon urban dwellers’ livelihoods and well- being: 
+-land displacement, 
+-infrastructure development, 
+-social recomposition and 
+-local popular economy. 
+
+Three sites are selected to represent different manifestations of uncertain urban development trajectories: infrastructurally overextended urban cores, fractious and contested land uses in urban peripheries, and violent extractions in frontier cities. 
+
+Interdisciplinary research teams in each site will experiment with combined material flow/built environment analyses, ethnographies of both residential settings and institutional/decision-making landscapes, and applied policy research as a basis to configure long-term research programs. These are specifically aimed at intervening into the governmental, technical and regulatory frameworks relevant to intensifying levels of poverty in each site and so to strengthen resident-led popular economies concerned with the material underpinnings of everyday life. Collaborations with community-based organizations, sectoral interest groups, and where viable, local and regional authorities are also emphasized. 
+
+Three sites include: Jakarta (urban core, districts of Muara Baru and Penjaringan), Karachi (periphery of extended urban region, the district of Thar), and Esmeraldas (a city defined by frontier violence). Each case study addresses distinct and equally important urbanization processes. Case studies will be synthesized in a workshop setting to generate an overall analytical document. This is the basis to assemble a package of innovative methodological and analytical tools specifically addressed to generating poverty reduction within new forms and conditions of urbanization so as to strategically appeal to longer term ODA related research-funding opportunities. 
+## Project Partners
+
+### Partner 1: Name of academic contact
+
+Elisa Sutanudjaja
+
+### Partner 1: Partner institution/department
+
+Rujak Center for Urban Studies
+
+### Partner 1: Country
+
+Indonesia
+
+### Partner 1: Partnership history
+
+Prof. Simone has had an intensive involvement with the Rujak Center for Urban Studies since its inception in 2010, served on the planning committee prior to its formal establishment and has been involved in the development of its programs for the past eight years. Key touchstones of this involvement include:
+
+A program of collective supervision and coordinated research for postgraduate students conducting research on poor and working class districts of Jakarta as a means of mobilizing the cumulative skills and interests of individual researchers into a complementary series of interventions.
+Mobilization of community and activist groups to identify potential key contributions to the development of Jakarta’s spatial planning process.
+Consultation and facilitation of negotiations among community-based organizations in Jakarta’s poorest communities and local and metropolitan scale public authorities around issues of land tenure, social housing, sanitation, and healthcare.
+Public education on urban issues through various fora and media campaigns
+Participation in a multi-city research study on youth urban practices coordinated by the principal investigator
+Training on urban knowledge and program co-production with researchers, activists, and community workers from six Indonesian cities
+Development of a financial framework for affordable low-income housing
+Strategic planning training workshops for planners working across metropolitan and national agencies concerned with the urban development sector. 
+Study of popular markets in Jakarta: Tanah Abang, Kebayoran Lama, and Tambora.
+
+ 
+### Partner 1: Partner Finances
+ 
+£4998.00 for scoping case study conducted by professional academic researchers according to terms outlined in Project Description
+ 
+### Partner 2: Name of Academic Contact
+ 
+Dr. Nausheen Anwar
+ 
+### Partner 2: Partner institution/ department
+ 
+Karachi Urban Lab
+Department of Social Sciences and Liberal Arts
+Institute for Business Administration
+ 
+### Partner 2: Country
+ 
+Pakistan
+ 
+### Partner 2: Partnership history
+ 
+The Karachi Urban Lab has been recently formalized in 2018 following a period of more informal collaborations among researchers in Karachi based at the Lahore University of Management Sciences, Habib University, the Institute for Business Administration, the Urban Resource Center, and the University of Karachi. Prof. Simone had participated in discussions with the Urban Resource Center in the Khartoum-Karachi Colllaboratory on Urban Poverty in June 2005 about a program of comparative research between teams in Cairo, Karachi and Jakarta. Following this, under the rubric of the “Urban Landscapes in the Middle East and South Asia” program, coordinated by the American University of Cairo, Simone participated in several research projects on urban popular economy, urban density, participatory planning, and housing rights with several Pakistani researchers now affiliated with the KUL, including Kamran Asdar Ali, Haris Gazdar, Noman Baig, and Nida Kirmani.
+
+In 2013, Simone initiated a research project on popular urban economy in the Karachi district, Lyari, with Adeem Suhail, now an associate member of the KUL and, at the time, a doctoral student at Emory University. Set within one of Karachi’s most heterogeneous and politically volatile areas, the project attempted to explore how the state’s militarized containment of trading networks and small scale industrial production in Lyari, and the subsequent rise of competing armed groups deployed to protect these activities, shaped the spatial composition of the area, as well as the compensatory mechanisms that enabled many productive facets of Lyari to endure during a period of protracted conflict. 
+
+In March 2018, Simone was the keynote speaker for a conference, “Everyday Urbanisms”, held at the Lahore University of Management Sciences and co-sponsored by KUL. This conference brought together a wide range of academic researchers and activists across Pakistan to consider a coordinated future research agenda to highlight the various strategies employed by various urban residents to deal with basic issues of housing, employment, health and urban services. This was followed by a talk Simone delivered at KUL in Karachi where he visited the various research sites of KUL’s present work. 
+
+### Partner 2: Partner finances
+
+£6690 for scoping case study conducted by professional academic researchers according to terms outlined in Project Description
+
+### Partner 3: Name of academic contact
+
+Dr. Maria Cristina Cielo
+
+### Partner 3: Partner institution/department
+
+Department of Sociology and Gender Studies
+Facultad Latinoamericana de Ciencias Sociales-Sede Académica de Ecuador (FLACSO)
+
+### Partner 3: Country
+
+Ecuador 
+
+### Partner 3: Partnership history
+
+Prof. Simone’s relationship with FLACSO dates to his joint-coordinatorship of a research program, “On Real Economies”, for the Council for the Development of Social Sciences Research in Africa (CODESRIA), 1995-1998. The project explored the variegated practices in which urban populations respond to perceived economic emergencies, the kinds of measures and mechanisms that are seen as “real” indicators of economic well-being, what do populations consider to be the viable methods and values necessary for such well-being, and how the formal realizations of the real, in the governance of economies, engage with the experiential life of ordinary people. 
+ 
+Following an international conference, Finance, Money, and the Distribution of Risk, held in Buenos Aires in 2012, a collaboration resumed with FLACSO in a study of La Salada Market in Buenos Aires—the largest informal market in Latin America. The work was conducted with Cristina Cielo of FLACSO, and FLACO adjunct faculty member, Véronica Gago, University of Buenos Aires. The focus here was on popular economy as the creation of particular value systems embodied in the circular migrations, production networks, labor conditions, retailing practices, and spatial organization of the market. This work was presented at the conference, Real Economy: Ethnographic Inquiries into the Reality and the Realization of Economic Life, held in Rio de Janeiro, June 2016. Simone was interviewed for a special issue on popular economies in FLACSO’s journal, Íconos. Revista de Ciencias Sociales. Num. 62, Quito, September 2018, pp. 153-164.
+ 
+### Partner Finances
+
+£12,861 for scoping study conducted by professional academic researchers according to the terms outlined in the Project Description
+
+## Project Description
+ 
+### The Societal Challenge
+
+Even in national contexts that have made significant gains in poverty reduction, **a significant proportion of their urban populations continue to live in highly precarious conditions**. Moreover, there is evidence that *new forms of poverty* are emerging within the global economic order. A wide range of targeted *interventions* from increasing the security of tenure, broadening health services, and more affordable access to water, power and sanitation have largely been piecemeal, weakly institutionalized and unable to keep pace with changes in the spatial composition and population growth of urban regions. This project (PopEcon) will *develop a synthesis of distinct technical and ethnographic methods* capable of producing practical knowledge on how *these changes* impact upon the everyday experience of the poor, their concomitant material infrastructures, and thus contribute to more effective interventions at all scales.
+
+Urban populations are increasing being shifted around, finding past livelihoods and socio-economic practices no longer viable, as well as coping with the intensified competition for resources and opportunities. The frequently contradictory trajectories of urban change make it difficult for residents to develop coherent narratives of how they should use their limited time and resources. At the same time, many different experiments with material provisioning and livelihood formation, what we consider, popular economy, are coming to the fore to address these conditions. PopEcon will utilize the learning from innovative popular economy experiments, as well local knowledge about material flows and infrastructure, to identify new and innovative pathways to (more) secure livelihoods
+
+### Analyzing Specific Configurations of Urban Regions
+
+**A large proportion of the urban poor** are now located in territories at the spatial peripheries of urban regions characterized by uncoordinated built environments, policies and institutional actors. Residents of the urban core are increasingly squeezed amongst high-end developments substantially isolating them from the rest of the city. New urban constellations are also being formed along various borderlands, attracting a large influx of migrants into often-violent extraction zones. The subsequent volatility produces more provisional orientations to everyday living, such as the distribution of household members across various short-term stays, more frequent changes in employment, more extensive circulations across the urban system in search of income and affordable residence, and the breakdown of both the social and material supports of long-term community ties. 
+
+Each partner will contribute knowledge related to one of these three domains of urban transformation so as to constitute a more comprehensive overview of the trajectories, compositions and potential modes of intervention related to urban poverty.
+
+Understanding the Transformative Potentials (and Limits) of Popular Economies
+PopEcon will identify the particular conjunctions of changing territorial regulation, infrastructure development, urban service provision, legalities pertaining to land, the self-provisioning of shelter, water, and power, the roll out of piecemeal affordable or social housing, and the practices of livelihood and household formation that are producing more intensive and extensive levels of precarity. PopEcon will assess the interaction of these elements and their relative proportionality as the basis from which to conceptualize specific targeted interventions capable of ameliorating the production of poverty. Such assessments would also identify the particular affordances and infrastructures that enable poor residents in each of the study sites to attenuate the impacts of precarity. From our initial collective assessments, each site manifests important experiments with the interweaving of care networks, income generation and distribution, and mutual investments, under the rubric of “popular economy”, that, even if highly circumscribed can serve as a platform for thinking about larger scale interventions.
+
+### Project Design: feasibility testing, network consolidation and proposal formation
+
+Each Global South partner will prepare a detailed scoping study that addresses the important structural conditions related to popular economy:
+
+1) identifies the main policy frameworks and variables underpinning the basic situation of residency in each site (land status, sectoral governance, demographics, infrastructure management), 
+
+2) maps the general spatial composition of each site (the territorial arrangement of land uses, population groups, infrastructural landscape), and identifies the key ecological challenges to social reproduction, 
+
+3) summarizes existing documentation on the characteristics of poverty in each site and the relevant policies and programs related to poverty reduction, 
+
+4) narrates the key transformations experienced by each site over the past decade, 
+
+5) provides an interpretive framework for the perspectives elicited by a sample of key institutional actors, including where possible, local authorities, planners, developers, community leaders, civil society institutions, and a cross-section of ordinary residents and;
+
+6) identifies key interfaces between macro-level actions and those from the ground up that potentially constitute spaces of convergence for policy and program integration and; 
+
+Research contributions of Dr. Silver and Dr. Densley Tingley, supported by one post-doc assistant, consider how material demands for infrastructure, and essential living standards can be quantified in urban areas of rapid and often informal development, where city level development plans are not available or adequate. They will develop an assessment framework that merges remote sensing techniques, i.e. using satellite imaging, with walking transects through the city to validate satellite data, to provide additional contextual detail and to characterise key materials with large volumes of use. This framework will be derived from a state of the art review of existing material flow analysis techniques, and qualitative ground surveys. From this a blended framework will be developed that can provide an initial estimate of material demands for housing and mobility infrastructure in the three cities, in order to explore the social, environmental and economic implications of material choices and use, considering the context of place.
+
+Prof Simone will be responsible for coordinating constant communications and consultations with all partners via bi-weekly Skype meetings, providing supervisory backup and ensuring integration of individual teams. He will facilitate synthetic documentation and analysis of the work and manage inter-team communications so that field experiences of each team are relayed to the others.
+
+Scoping studies will also canvas the academic research, ODA, multilateral organization, and private foundation funding streams applicable to both national and international work—particularly urban research tranches within the ESRC, World Bank, and Ford Foundation. A workshop of partners will be convened at the University of Sheffield to assess and consolidate results and prepare for future program development.
+
+## ODA-compliance
+
+* Which DAC list countries be working in and/or with?
+ + Indonesia, Pakistan, and Ecuador
+* Which GCRF challenges will your project address?
+ + b.i   Sustainable livelihoods supported by strong foundations for inclusive economic growth and innovation
+ + b.iii   Sustainable cities and communities
+ + c.iii  Reduce poverty and inequality, including gender inequalities
+* Which Sustainable Development Goals will your project address?
+ + No poverty (1), Decent work and economic growth (8), Reduced inequalities (10), Sustainable cities and communities (11), Partnerships for the goals (17).
+
+## Anticipated benefits and impacts on DAC-list countries
+
+As the composition of urban spaces has become more materially complex and disjointed and their governance more subjected to multiscalar actors frequently operating with intensely competitive agendas and power differentials, new methodologies of knowledge production are urgently needed in order to grasp both the trajectories of urbanization, its landscapes, and highly fractured and contentious decision-making practices. PopEcon pilots methodologies that simultaneously examine the material underpinnings of this process, the social and everyday impacts of fractured and contested urban landscapes, and the complex fabric of institutional actors involved in shaping urbanization processes.
+
+1. The DFID Economic Development Strategy: prosperity, poverty and meeting global challenges of January 2017 identifies infrastructure, energy, and urban development as a key sector priority. This strategy intends to help “ improve the layout of cities, make urban land use more sustainable, and strengthen water security and property rights. This will help city governments develop economies that can attract firms and support entrepreneurs. It will help create jobs and address precarious living and working conditions in many urban areas - including for the large numbers of people working in the informal sector and living in slums” (15). 
+
+This research will contribute to this agenda by adding detailed knowledge about how residents living within three different kinds of urban territories undergoing transformation experience and attempt to address their conditions, and examine how the interactions of uncertain land status, unregulated development, uncoordinated infrastructure roll outs, truncated urban services provision, ecological fragility, substantial population movement, and restricted citizen rights combine to curtail existing governance capacities and entrench urban poverty as a way of life. It also contributes a set of alternative economic practices and infrastructure designs capable of improving livelihoods and experiences of citizenship.
+
+2. Indonesia’s Mid-term Development Plan (RPJMN 2015–2019) identifies improved public service delivery through efficient and sustainable use of resources as a key development priority. Insufficient infrastructural investments have left many communities vulnerable to poverty; there have been declines in household access to safe water, and a fraction of the urban population have access to centralized sanitation, and the country attains only a 4% GDP growth for every 1% of urbanization. In addressing this situation, the Indonesian government has committed to supporting integrated urban development through improved planning tools and targeted actions in areas such as strategic investment planning, urban transport systems and management of disaster risks affecting poor neighbourhoods. To do so, the government and its development cooperation partners will provide capacity-building measures to central and local governments and foster the development of economically viable service models. 
+
+PopEcon will help demonstrate the kinds of intersectoral partnerships necessary to produce the needed knowledge for adequate and sustainable human settlements planning for the poorest of Jakarta’s population. As the research site is a context requiring substantial infrastructural investments to mitigate the deleterious effects of climate and development-induced subsidence and rising sea levels, experiencing a major reconfiguration of port and industrial facilities, and subject to major levels of financial and land speculation, planning and governance requirements face new kinds of challenges that, in turn, require new modalities of livelihood formation for the urban poor. The research builds on long-term work analyzing the economic support networks of poor communities in this region of Jakarta and thus contributes to the capacity building needs of government officials.
+
+3. The World Bank’s (2014) Pakistan Urban Sector Assessment: Leveraging the Growth Dividend indicates the severity of urban poverty, with one in eight urban residents living below the poverty line, with Karachi ranking six lowest on the Economist Intelligence Unit’s 2015 livability index and experiencing some of the most severe housing shortages of any city in the world. The Global Multidimensional Poverty Index 2017 indicates that despite such dire conditions, Pakistan receives very low allocations of ODA in this sector. Additionally, the capacity to address rapidly changing land use, infrastructure needs, and urban expansion is curtailed by rapid changes in the region’s governance system, the reliance upon paramilitary controls, and frequently violent territorial contestation. 
+
+PopEcon intends to provide up to date analysis of the changes underway in one of Karachi’s key growth poles in the hinterland of the urban region to which increasing numbers of the city’s poor residents have been pushed onto already precarious water tables and stressed agricultural land. Knowledge about how residents attempt to construct viable livelihoods at a far remove from the city is crucial for interventions aimed at providing sustainable urban services.
+
+4. The Sustainable Development Goals Fund has pointed out the enduring relationship between racial discrimination and chronic poverty for Afro-descendent populations living on the Pacific coast of Ecuador. The intensity of discrimination consigns these populations to a string of small secondary towns and cities increasingly reliant upon illicit trade. UNDP’S country assessment report of 2009 indicated that Afro-Ecuadorian populations substantially lagged behind in life expectancy, health care, and school attendance. While the 2018-2020 Country Prosperity Plan for Ecuador prioritizes SDG 10.2 (breaking inequalities) and SDG 11 (inclusive cities), the effects of Ecuador’s investments in poverty reduction have largely missed the country’s Afro-descendent population. 
+
+PopEcon not only attempts to visibilize a particular archipelago-like form of urbanization that crosses national borders, and that embodies particularly obdurate forms of impoverishment, but to explore the support systems and economic practices of a racially marginalized population, and thus contributes to highlighting their presence, problems and resourcefulness as an essential component of mitigating anti-blackness in the disposition of development resources.
+
+## Legacy
+
+What is the route by which you intend this project to lead onto a further external funding bid?
+
+The ongoing research work of all identified partners in their respective areas of interest constitute a significant body of collective urban knowledge. The intention is to build upon this knowledge to conjointly develop cutting-edge methodological strategies in which to more precisely account for the dynamics of poverty production in a range of transformed urban configurations. 
+
+The results of the scoping studies will be assessed in the context of a workshop to be held in July 2019 and then integrated into a 3-5 year research program marketing itself as the necessary research corollary to implementing “new urban agendas” at various and applicable scales. 
+
+What is your long-term vision for the partnership and for the research area?
+
+First, this is a partnership among institutions that really want to explore a long-term working relationship as an integral part of their work. For the Urban Institute, it seeks to cultivate long-term relationships with different urban labs and initiatives, particularly in the Global South in order to consolidate an urban research agenda and practice that operates in a truly horizontal manner across geographic divides and uses the specificities of different sites to lend new knowledge and perspectives on urban development issues in particular contexts. 
+
+We pursue this existing configuration of partners not simply to capture particular sources of funding but as an attempt to institutionalize a coordination among equals capable of producing relevant knowledge on urbanization processes over the long term, and thus ensuring the stability and legitimacy to engage national, municipal, and local authorities, community based organizations, international agencies, a`nd sectoral interest groups in the pursuit of specific policy developments and programmatic interventions. Without such long-term commitments, the effectiveness of research as a policy tool is limited. Substantive change for poverty reduction and urban sustainability is a process requiring protracted and incremental negotiations over a long time period, and this proposed project is simply an additional step in achieving this objective.
+
+What funding schemes do you aim to target in particular to achieve this and what is the timeline for doing so (please be as specific as possible)
+
+At the Urban Institute, the project will support the development of proposals for bids issued by the ESRC and the British Academy that have incorporated ODA oriented development research funds, as well as Leverhulme grants. Here the scoping studies of this proposed initial project would form the basis on an extended and more detailed body of work. Additional opportunities may still exist in the European Union, such as Horizon 2020. 
+
+Partner organizations will also work towards securing funding that enable their activities. This process will commence at the start of the project and continue for its duration. For example, each of the DAC listed countries is the recipient of various streams of development finance on the part of OECD countries, as part of their development cooperation. As some OECD countries have prioritized urban sectoral work, it is anticipated that DAC country partners will explore possible individual affiliations with country-specific development cooperation programs in order to extend their work. For Jakarta and Karachi, the Asian Development Bank, Ford and Rockefeller Foundations have several tranches of research funding available to seed relationships between government and research institutions in Asia.

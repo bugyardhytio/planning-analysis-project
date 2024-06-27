@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#-------------------------------\nn_of_category <- function(dataset) {\n  dataset %>%\n    summarize(n_tahun = n_distinct(tahun),\n              n_provinsi = n_distinct(provinsi),\n              n_kabupaten = n_distinct(kabupaten),\n              n_kecamatan = n_distinct(kecamatan),\n              n_kelurahan = n_distinct(kelurahan),\n              n_usia = n_distinct(usia),\n              n_jenisKelamin = n_distinct(jenisKelamin))\n}\n\nn_of_category(df)",
+    "created" : 1551080803945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3647638563",
+    "id" : "7F3752FA",
+    "lastKnownWriteTime" : 1551080812,
+    "last_content_update" : 1551080813083,
+    "path" : "~/R/magangRCUS/penjaringan/function.R",
+    "project_path" : "function.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

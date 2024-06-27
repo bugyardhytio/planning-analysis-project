@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(readr)\nlibrary(dplyr)\nlibrary(tidyr)\nlibrary(stringr)\nlibrary(ggplot2)\nlibrary(ggmap)\nlibrary(sf)\nlibrary(tmap)\nlibrary(RColorBrewer)\nlibrary(purrr)\nlibrary(data.table)\nlibrary(lubridate)",
+    "created" : 1551075756710.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1053503056",
+    "id" : "48BDBB02",
+    "lastKnownWriteTime" : 1551865647,
+    "last_content_update" : 1551865647408,
+    "path" : "~/R/magangRCUS/penjaringan/library.R",
+    "project_path" : "library.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

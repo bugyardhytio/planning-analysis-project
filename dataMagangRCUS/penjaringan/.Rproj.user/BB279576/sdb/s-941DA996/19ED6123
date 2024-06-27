@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "setwd(\"~/R/Pergub2018\")\n\nfilename <- c(\"januari\", \"februari\", \"maret\", \"april\", \n              \"mei\", \"juni\", \"juli\", \"agustus\", \n              \"september\", \"oktober\", \"november\", \"desember\")\nfilename <- paste0(filename, \".csv\")\n\ndatalist <- map(filename, read_csv)\ndatalist[[1]][3] <- mdy(datalist[[1]][[3]])\ndatalist[[1]][4] <- mdy(datalist[[1]][[4]])\ndatalist[[3]][4] <- dmy(datalist[[3]][[4]])\ndata <- rbindlist(datalist, fill = TRUE)\ndata <- select(data, -c(\"tahun\", \"X7\", \"X8\", \"X9\"))\ndata <- as_tibble(data)",
+    "created" : 1551410990187.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "775257496",
+    "id" : "19ED6123",
+    "lastKnownWriteTime" : 1551425187,
+    "last_content_update" : 1551425187910,
+    "path" : "~/R/Pergub2018/script.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

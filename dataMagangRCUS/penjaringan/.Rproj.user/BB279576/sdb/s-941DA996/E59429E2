@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "setwd(\"~/R/magangRCUS/penjaringan/data/bencana/rw-rawan-banjir\")\n\nbanjir <- read_csv(\"banjir.csv\")\ncolnames(banjir) <- c(\"kabupaten\", \"kecamatan\", \"kelurahan\", \"rw\")\nrwBanjir <- inner_join(rw, banjir, by = c(\"kelurahan\", \"rw\"))\n\ntm_shape(rw) +\n  tm_polygons() +\ntm_shape(rwBanjir) +\n  tm_fill(\"blue\")",
+    "created" : 1551337052359.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3672015481",
+    "id" : "E59429E2",
+    "lastKnownWriteTime" : 1551425178,
+    "last_content_update" : 1551425178261,
+    "path" : "~/R/magangRCUS/penjaringan/data/bencana/analisis-bencana-rawan-banjir.R",
+    "project_path" : "data/bencana/analisis-bencana-rawan-banjir.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

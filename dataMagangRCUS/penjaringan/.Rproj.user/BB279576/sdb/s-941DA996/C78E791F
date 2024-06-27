@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "lokasi <- geocode(\"Kelurahan Penjaringan, Kecamatan Penjaringan, Jakarta Utara, DKI Jakarta\", source = \"dsk\")\npeta_penjaringan <- get_map(location = lokasi, zoom = \"auto\", source = \"osm\")\n\nsetwd(\"~/R/magangRCUS/penjaringan/shapefile/batas-administrasi/\")\n\nkecamatan <- st_read(\"batas_kecamatan.shp\")\nkelurahan <- st_read(\"batas_kelurahan.shp\")\nrw <- st_read(\"batas_rw.shp\")\n  \n# DATA CLEANING ----\n## Cleaning shp kelurahan ----\nkelurahan <- select(kelurahan, keluraha_1, geometry)\ncolnames(kelurahan) <- c(\"kelurahan\", \"geometry\")\nkelurahan$kelurahan <- toupper(kelurahan$kelurahan)\nkelurahan$kelurahan <- str_replace(kelurahan$kelurahan, \"KALI DERES\", \"KALIDERES\")\nkelurahan$kelurahan <- str_replace(kelurahan$kelurahan, \"PAL MERAH\", \"PALMERAH\")\nkelurahan$kelurahan <- str_replace(kelurahan$kelurahan, \"HARAPAN MULYA\", \"HARAPAN MULIA\")\nkelurahan$kelurahan <- str_replace(kelurahan$kelurahan, \"KALIANYAR\", \"KALI ANYAR\")\n\n## Cleaning shp rw\nrw <- select(rw, rw_name, keluraha_1, kecamata_1, kabupate_1, geometry)\ncolnames(rw) <- c(\"rw\", \"kelurahan\", \"kecamatan\", \"kabupaten\", \"geometry\")\nrw$kelurahan <- toupper(rw$kelurahan)",
+    "created" : 1551165128951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2860028211",
+    "id" : "C78E791F",
+    "lastKnownWriteTime" : 1551343704,
+    "last_content_update" : 1551343704223,
+    "path" : "~/R/magangRCUS/penjaringan/spatial.R",
+    "project_path" : "spatial.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
